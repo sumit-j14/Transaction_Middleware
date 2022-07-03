@@ -8,5 +8,4 @@ This project is about imitating the concept of plaid fintech using Django, Celer
 ![1](https://user-images.githubusercontent.com/72104547/169647254-10e304cf-e75c-4697-98dd-09b5489a7683.jpeg)
 ![2](https://user-images.githubusercontent.com/72104547/169647271-1d5164b4-9d5c-4eab-a1d8-0f23659f4faa.jpeg)
 ![3](https://user-images.githubusercontent.com/72104547/169647282-2fee95a4-0fa9-47ab-be8a-f1ce2bbfbcfe.jpeg)
-![4](https://user-images.githubusercontent.com/72104547/169647290-a172cc6c-0637-4543-a57f-b5e049dc69cf.jpeg)
 
